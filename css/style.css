@@ -9731,7 +9731,7 @@ h4, h5, h6 {
 }
 .section.has-img-bg {
   position: relative;
-  background: url(/img/fin.jpg) no-repeat center top fixed;
+  background: url(/img/fondoFin.jpg) no-repeat center top fixed;
   background-size: cover;
   color: #fff;
 }
